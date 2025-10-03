@@ -15,3 +15,9 @@ Git Intro & How to hand your homework.ipynb
 
 # Ignore CSV files
 *.csv
+
+# Ignore 20 Newsgroups Datasets
+20_newsgroups/
+
+# Ignore Notes
+DM2025-Lab1-Phase1-ChineseNote.md
